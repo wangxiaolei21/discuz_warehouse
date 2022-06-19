@@ -1,2 +1,3 @@
-# iamge_discuz_warehouse
+# 使用说明
 自己的discuz论坛图库
+外链使用图片，缺点是不能有重复名字的图片出现了，唉。
